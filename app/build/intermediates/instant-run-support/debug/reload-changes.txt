@@ -1,0 +1,6 @@
+CHANGED,E:\Documents\AndroidStudio\Projects\OpenGLES2Demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\yuki\example\opengles2demo\MyGLRender$override.class
+CHANGED,E:\Documents\AndroidStudio\Projects\OpenGLES2Demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\yuki\example\opengles2demo\GLRenderer$override.class
+CHANGED,E:\Documents\AndroidStudio\Projects\OpenGLES2Demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\yuki\example\opengles2demo\GLES20Renderer$override.class
+CHANGED,E:\Documents\AndroidStudio\Projects\OpenGLES2Demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\yuki\example\opengles2demo\MainActivity$override.class
+CHANGED,E:\Documents\AndroidStudio\Projects\OpenGLES2Demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\Documents\AndroidStudio\Projects\OpenGLES2Demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\yuki\example\opengles2demo\MainActivity$1$override.class

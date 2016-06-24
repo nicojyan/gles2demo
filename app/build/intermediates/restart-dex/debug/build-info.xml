@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="17"
+    density="hdpi"
+    format="7"
+    timestamp="21606166624758" >
+
+    <task
+        name="javac"
+        duration="5277" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="243" />
+    <task
+        name="verifier"
+        duration="97" />
+
+    <artifact
+        location="E:\Documents\AndroidStudio\Projects\OpenGLES2Demo\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="39459234549602"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\Documents\AndroidStudio\Projects\OpenGLES2Demo\app\build\intermediates\builds\debug\39459234549602\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
